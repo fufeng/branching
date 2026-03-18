@@ -1,4 +1,4 @@
-function bifurcation_selectionGradient_demo9()
+function bifurcation_selectionGradient_final()
 
 % Default parameters: N=5, Mc=3, B=4, C=1, K=3
 

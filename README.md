@@ -1,5 +1,7 @@
 # Feng Fu & Alina Glaubitz --- MATLAB Code for Adaptive Dynamics Analysis
 
+## A. Glaubitz,  & F. Fu,   Evolutionary branching and consistency in group cooperation, Proc. Natl. Acad. Sci. U.S.A. 123 (21) e2523204123, https://doi.org/10.1073/pnas.2523204123 (2026).
+
 This repository contains MATLAB code used for the adaptive dynamics
 analysis presented in our research on evolutionary branching and consistency in
 group cooperation.
